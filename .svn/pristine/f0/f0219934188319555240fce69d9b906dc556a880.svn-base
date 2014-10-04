@@ -1,0 +1,6 @@
+06.08.2012: merged with trunk of Wuerzburg SVN repository
+	- 2 files were not merged:
+		tests.scenarios.jisa.AbstractNoLoadScenarioTest
+		vnreal.algorithms.utils.LpSolver
+	- these files, and the files that depend on them were renamed to *.wuerzburg
+	  and added to the repository
